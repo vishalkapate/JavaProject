@@ -1,10 +1,8 @@
-Public class HelloWorld 
+Public class Hello
 {
 Public Static Void Main(Strings[] args)
 {
-for(i=1, i<=10, i++)
-{
-system.out.println("HelloWorld...." +i);
+system.out.println("HelloWorld");
 }
 }
-}
+
